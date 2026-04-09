@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Johny Thrift Store",
+    "address": "TRA-36, Elamakkara, Kochi, Kerala 682026",
+    "district": "ernakulam",
+    "rating": 3.3,
+    "category": "thrift"
+  },
+  {
+    "name": "Desi Thrift Shop",
+    "address": "Near Chakamadom Bus Stop, Jew Town, Mattancherry, Kochi, Kerala 682002",
+    "district": "ernakulam",
+    "rating": 4.0,
+    "category": "thrift"
+  },
+  {
+    "name": "Slag.in",
+    "address": "Near Kadavanthra Metro Station, Giri Nagar, Kadavanthra, Kochi, Kerala 682020",
+    "district": "ernakulam",
+    "rating": 4.9,
+    "category": "thrift"
+  },
+  {
+    "name": "Spinners Export Surplus Store",
+    "address": "Pullepadi, Kaloor, Kochi, Kerala 682017",
+    "district": "ernakulam",
+    "rating": 3.4,
+    "category": "surplus"
+  },
+  {
+    "name": "Mathruka Charitable Society",
+    "address": "Chamravattom, Malappuram, Kerala",
+    "district": "malappuram",
+    "rating": 5.0,
+    "category": "thrift"
+  },
+  {
+    "name": "Violet Vog Men's Export Surplus Store",
+    "address": "Near Lisie Hospital Rd, Kaloor, Kochi, Kerala 682017",
+    "district": "ernakulam",
+    "rating": 4.7,
+    "category": "surplus"
+  },
+  {
+    "name": "SIYA'S SURPLUS",
+    "address": "Near MG Road, Kochi, Kerala",
+    "district": "ernakulam",
+    "rating": 4.5,
+    "category": "surplus"
+  },
+  {
+    "name": "Surplus Wholesale Factory",
+    "address": "Opp SBI Tower, Kochi, Kerala",
+    "district": "ernakulam",
+    "rating": 4.2,
+    "category": "surplus"
+  },
+  {
+    "name": "Gentleman's For Family",
+    "address": "Opposite Ajantha Theatre, Thiruvananthapuram, Kerala",
+    "district": "thiruvananthapuram",
+    "rating": 4.9,
+    "category": "surplus"
+  },
+  {
+    "name": "Nidhi Thrift shop",
+    "address": "GW96+85M, Thiruvananthapuram, Kerala",
+    "district": "thiruvananthapuram",
+    "rating": 3.7,
+    "category": "thrift"
+  },
+  {
+    "name": "RETRO CLUB SURPLUS STORE",
+    "address": "Girls High School Lane, Thiruvananthapuram, Kerala",
+    "district": "thiruvananthapuram",
+    "rating": 5.0,
+    "category": "surplus"
+  },
+  {
+    "name": "HISTORICLOTH vintage / thrift store",
+    "address": "New bypass road, Kozhikode, Kerala",
+    "district": "kozhikode",
+    "rating": 4.8,
+    "category": "thrift"
+  },
+  {
+    "name": "Needle Intention, Thrift/Vintage",
+    "address": "Cherooty Rd, Kozhikode, Kerala",
+    "district": "kozhikode",
+    "rating": 4.3,
+    "category": "thrift"
+  },
+  {
+    "name": "Calicut Surplus Store",
+    "address": "Mooriyadu Rd, Kozhikode, Kerala",
+    "district": "kozhikode",
+    "rating": 3.5,
+    "category": "surplus"
+  },
+  {
+    "name": "DROP dress for less",
+    "address": "City center, Thrissur, Kerala",
+    "district": "thrissur",
+    "rating": 4.2,
+    "category": "thrift"
+  },
+  {
+    "name": "Sign up",
+    "address": "City Centre, Thrissur, Kerala",
+    "district": "thrissur",
+    "rating": 4.4,
+    "category": "surplus"
+  },
+  {
+    "name": "HALLELUJAH CLOTHING",
+    "address": "Thottekatt lane, Thrissur, Kerala",
+    "district": "thrissur",
+    "rating": 4.9,
+    "category": "surplus"
+  },
+  {
+    "name": "Thrift R Street",
+    "address": "Near Fort Maidan, Palakkad, Kerala",
+    "district": "palakkad",
+    "rating": 4.8,
+    "category": "thrift"
+  },
+  {
+    "name": "Detrop_Surplusstore",
+    "address": "Kannanvarkey Brg, Alappuzha, Kerala",
+    "district": "alappuzha",
+    "rating": 4.8,
+    "category": "surplus"
+  },
+  {
+    "name": "fashionwest Export Surplus family shop",
+    "address": "Opposite Providence hospital, Alappuzha, Kerala",
+    "district": "alappuzha",
+    "rating": 4.2,
+    "category": "surplus"
+  },
+  {
+    "name": "Brand Mart",
+    "address": "Kottayam - Kumarakom Rd, Kottayam, Kerala",
+    "district": "kottayam",
+    "rating": 4.5,
+    "category": "surplus"
+  },
+  {
+    "name": "916 Coco Brand",
+    "address": "Near Railway Station, Kottayam, Kerala",
+    "district": "kottayam",
+    "rating": 4.2,
+    "category": "surplus"
+  },
+  {
+    "name": "Hard Denim Surplus Clothes",
+    "address": "AZHAR COMPLEX, Thayatheru Rd, Kannur, Kerala",
+    "district": "kannur",
+    "rating": 5.0,
+    "category": "surplus"
+  },
+  {
+    "name": "Aatani - The Surplus Shoppe",
+    "address": "V9C7+8P3, Kannur, Kerala",
+    "district": "kannur",
+    "rating": 4.2,
+    "category": "surplus"
+  },
+  {
+    "name": "Top V Thrift (Edappal)",
+    "address": "Edappal, Malappuram, Kerala",
+    "district": "malappuram",
+    "rating": 4.5,
+    "category": "thrift"
+  },
+  {
+    "name": "Akbar Basha Second Hand Dress Buyers",
+    "address": "Manjeri, Malappuram, Kerala",
+    "district": "malappuram",
+    "rating": 4.0,
+    "category": "thrift"
+  },
+  {
+    "name": "LOFT Mens And Women Surplus Products",
+    "address": "Pathanamthitta, Kerala",
+    "district": "pathanamthitta",
+    "rating": 5.0,
+    "category": "surplus"
+  },
+  {
+    "name": "Hip Hopz Kasaragod",
+    "address": "GX2V+WQ7, Kasaragod, Kerala",
+    "district": "kasaragod",
+    "rating": 4.8,
+    "category": "surplus"
+  },
+  {
+    "name": "Chic thrift store",
+    "address": "Sultan Bathery, Wayanad, Kerala",
+    "district": "wayanad",
+    "rating": 4.9,
+    "category": "thrift"
+  },
+  {
+    "name": "Oldie Thrifted Villa",
+    "address": "KKR Junction, Thodupuzha East, Idukki, Kerala 685585",
+    "district": "idukki",
+    "rating": 4.0,
+    "category": "thrift"
+  }
+]
